@@ -1,5 +1,7 @@
 # kdb+taq
 
+## UPDATE 1 Tomorrow, and tomorrow, and tomorrow/creeps in this petty pace from day to day/to the last syllable of recorded time/and all our yesterdays have lighted fools the way to dusty death/out! out! brief candle/life's but a walking shadow/a poor player, that struts and frets his hour upon the stage/and then is heard no more/it is a tale told by an idiot/full of sound and fury, signifying nothing
+
 kdb-taq is a tool for processing and analyzing historical NYSE Daily TAQ (Trade and Quote) data using kdb+/q. This repository contains scripts and utilities to parse, load, and query TAQ datasets efficiently.
 
 ## Prerequisites
