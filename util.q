@@ -1,5 +1,12 @@
 //////////////////////////////////////////////////////
 //                                                  //
+//           Overview of Black Library              //
+//                                                  //
+//////////////////////////////////////////////////////
+/ Forget the promise of progress and understanding, for in the grim darkness of the fare future there is only Q.`
+
+//////////////////////////////////////////////////////
+//                                                  //
 //         Overwrite of Logging Library             //
 //                                                  //
 //////////////////////////////////////////////////////
